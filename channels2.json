@@ -1,0 +1,444 @@
+{
+    "channels": {
+        "Bot Service (gtmart)": {
+            "id": "1140652753522270269",
+            "cooldown": 7200
+        },
+        "buy-sell-bot(gt id)": {
+            "id": "1324054014228303894",
+            "cooldown": 7200
+        },
+        "channel tes 2": {
+            "id": "1276747438866038884",
+            "cooldown": 3
+        },
+        "channel tes": {
+            "id": "1333015915016753216",
+            "cooldown": 7200
+        },
+        "bbm promoting": {
+            "id": "1106191572573364264",
+            "cooldown": 7200
+        },
+        "buy/sell Marvelous": {
+            "id": "900833650654994442",
+            "cooldown": 7200
+        },
+        "buy/sell Unobtainable": {
+            "id": "900860787298553877",
+            "cooldown": 7200
+        },
+        "buy/sell Legendary": {
+            "id": "900847822570651658",
+            "cooldown": 7200
+        },
+        "buy/sell iots": {
+            "id": "782718904056807494",
+            "cooldown": 7200
+        },
+        "buy/sell clash item": {
+            "id": "762435449909542942",
+            "cooldown": 7200
+        },
+        "buy/sell guild advertising": {
+            "id": "806442343880196117",
+            "cooldown": 7200
+        },
+        "buy/sell guild": {
+            "id": "900847998320406599",
+            "cooldown": 7200
+        },
+        "buy/sell anomalizing": {
+            "id": "901107897218531429",
+            "cooldown": 7200
+        },
+        "buy/sell anniversary": {
+            "id": "796633769917546536",
+            "cooldown": 7200
+        },
+        "buy/sell lunar new year": {
+            "id": "806455542591651840",
+            "cooldown": 7200
+        },
+        "buy/sell valentines": {
+            "id": "806455698014732318",
+            "cooldown": 7200
+        },
+        "buy/sell st patricks": {
+            "id": "806456471302176788",
+            "cooldown": 7200
+        },
+        "buy/sell ubiweek": {
+            "id": "997609617410490418",
+            "cooldown": 7200
+        },
+        "buy/sell wildlife": {
+            "id": "1083726271554519120",
+            "cooldown": 7200
+        },
+        "buy/sell easter": {
+            "id": "806456521335767070",
+            "cooldown": 7200
+        },
+        "buy/sell grow4good": {
+            "id": "967097602153791528",
+            "cooldown": 7200
+        },
+        "buy/sell cinco de mayo": {
+            "id": "806456631172136981",
+            "cooldown": 7200
+        },
+        "buy/sell pineapple": {
+            "id": "806456721169973258",
+            "cooldown": 7200
+        },
+        "buy/sell beaschparty": {
+            "id": "989905357063213106",
+            "cooldown": 7200
+        },
+        "buy/sell equinox": {
+            "id": "957184869606228038",
+            "cooldown": 7200
+        },
+        "buy/sell summerfest": {
+            "id": "806456760592105483",
+            "cooldown": 7200
+        },
+        "buy/sell harvest festival": {
+            "id": "806456916586790912",
+            "cooldown": 7200
+        },
+        "buy/sell garuda": {
+            "id": "1012658140694716436",
+            "cooldown": 7200
+        },
+        "buy/sell aliens": {
+            "id": "944664069972049960",
+            "cooldown": 7200
+        },
+        "buy/sell balloonwarz": {
+            "id": "786582596398219274",
+            "cooldown": 7200
+        },
+        "buy/sell assasins": {
+            "id": "1157271390962069545",
+            "cooldown": 7200
+        },
+        "buy/sell wonderweek": {
+            "id": "1031260762083184650",
+            "cooldown": 7200
+        },
+        "buy/sell halloween": {
+            "id": "806456962882600960",
+            "cooldown": 7200
+        },
+        "buy/sell thanksgiving": {
+            "id": "779116201350529054",
+            "cooldown": 7200
+        },
+        "buy/sell blackfriday": {
+            "id": "806490613695512616",
+            "cooldown": 7200
+        },
+        "buy/sell winterfest": {
+            "id": "784189920742342688",
+            "cooldown": 7200
+        },
+        "buy/sell carnival items": {
+            "id": "712744557519044719",
+            "cooldown": 7200
+        },
+        "buy/sell locke": {
+            "id": "806494474200547338",
+            "cooldown": 7200
+        },
+        "buy/sell voucher dayz": {
+            "id": "900816566353031189",
+            "cooldown": 7200
+        },
+        "buy/sell comet": {
+            "id": "806494773711339530",
+            "cooldown": 7200
+        },
+        "buy/sell mutant kitchen": {
+            "id": "806493841015832586",
+            "cooldown": 7200
+        },
+        "buy/sell zombie": {
+            "id": "806498636065931265",
+            "cooldown": 7200
+        },
+        "buy/sell fossils": {
+            "id": "743173219971760180",
+            "cooldown": 7200
+        },
+        "buy/sell wolf": {
+            "id": "806494307036037140",
+            "cooldown": 7200
+        },
+        "buy/sell geigers": {
+            "id": "806507394791768094",
+            "cooldown": 7200
+        },
+        "buy/sell daily challange": {
+            "id": "889182572477816942",
+            "cooldown": 7200
+        },
+        "buy/sell ghost": {
+            "id": "762435265025277993",
+            "cooldown": 7200
+        },
+        "buy/sell tournament": {
+            "id": "847208477553066025",
+            "cooldown": 7200
+        },
+        "buy/sell consumables": {
+            "id": "847201895873118218",
+            "cooldown": 7200
+        },
+        "buy/sell worlds": {
+            "id": "734717853965615124",
+            "cooldown": 7200
+        },
+        "buy/sell crime": {
+            "id": "742546954503848006",
+            "cooldown": 7200
+        },
+        "buy/sell gems": {
+            "id": "762442071830822914",
+            "cooldown": 7200
+        },
+        "buy/sell ancestral": {
+            "id": "782720570143277116",
+            "cooldown": 7200
+        },
+        "buy/sell growmoji": {
+            "id": "782911415676960778",
+            "cooldown": 7200
+        },
+        "buy/sell science": {
+            "id": "762448042011000842",
+            "cooldown": 7200
+        },
+        "buy/sell paints": {
+            "id": "774455258407370752",
+            "cooldown": 7200
+        },
+        "buy/sell silk": {
+            "id": "762435331856269343",
+            "cooldown": 7200
+        },
+        "buy/sell blast": {
+            "id": "782718823488290826",
+            "cooldown": 7200
+        },
+        "buy/sell crystals": {
+            "id": "742547014197313576",
+            "cooldown": 7200
+        },
+        "buy/sell mines": {
+            "id": "889189591083520060",
+            "cooldown": 7200
+        },
+        "buy/sell machine": {
+            "id": "782722952256159754",
+            "cooldown": 7200
+        },
+        "buy/sell locks": {
+            "id": "878779329864167504",
+            "cooldown": 7200
+        },
+        "buy/sell music": {
+            "id": "782718975091933214",
+            "cooldown": 7200
+        },
+        "buy/sell unicorn": {
+            "id": "879846165196181616",
+            "cooldown": 7200
+        },
+        "buy/sell steam": {
+            "id": "806499108801478676",
+            "cooldown": 7200
+        },
+        "buy/sell provider": {
+            "id": "880294786236579860",
+            "cooldown": 7200
+        },
+        "buy/sell adventure": {
+            "id": "900812336116416563",
+            "cooldown": 7200
+        },
+        "buy/sell jammers": {
+            "id": "806523338797219860",
+            "cooldown": 7200
+        },
+        "buy/sell treasure map": {
+            "id": "806499467711742002",
+            "cooldown": 7200
+        },
+        "buy/sell dungeons": {
+            "id": "1324916884205998242",
+            "cooldown": 7200
+        },
+        "buy/sell hats": {
+            "id": "900863315381739651",
+            "cooldown": 7200
+        },
+        "buy/sell hair": {
+            "id": "889183252735225886",
+            "cooldown": 7200
+        },
+        "buy/sell face": {
+            "id": "944657054377836645",
+            "cooldown": 7200
+        },
+        "buy/sell neck": {
+            "id": "944660041636659271",
+            "cooldown": 7200
+        },
+        "buy/sell shirt": {
+            "id": "762434767912173588",
+            "cooldown": 7200
+        },
+        "buy/sell pants": {
+            "id": "949006096746578000",
+            "cooldown": 7200
+        },
+        "buy/sell shoes": {
+            "id": "900862136086061078",
+            "cooldown": 7200
+        },
+        "buy/sell back": {
+            "id": "762446834454495282",
+            "cooldown": 7200
+        },
+        "buy/sell hands": {
+            "id": "889195913275408455",
+            "cooldown": 7200
+        },
+        "buy/sell petbattle": {
+            "id": "847208536760909874",
+            "cooldown": 7200
+        },
+        "buy/sell rides": {
+            "id": "944668428919259177",
+            "cooldown": 7200
+        },
+        "buy/sell pets": {
+            "id": "731475906723315752",
+            "cooldown": 7200
+        },
+        "buy/sell subscription": {
+            "id": "889217804685942874",
+            "cooldown": 7200
+        },
+        "buy/sell bait": {
+            "id": "709362882055241808",
+            "cooldown": 7200
+        },
+        "buy/sell fish": {
+            "id": "709362994617909318",
+            "cooldown": 7200
+        },
+        "buy/sell fish item": {
+            "id": "709363155309953105",
+            "cooldown": 7200
+        },
+        "buy/sell rods": {
+            "id": "709363256220712981",
+            "cooldown": 7200
+        },
+        "buy/sell lobster": {
+            "id": "709363456125435934",
+            "cooldown": 7200
+        },
+        "buy/sell blocks": {
+            "id": "1104057271215984741",
+            "cooldown": 21600
+        },
+        "buy/sell backgrounds": {
+            "id": "782718523629633567",
+            "cooldown": 7200
+        },
+        "buy/sell doors": {
+            "id": "846671811223355402",
+            "cooldown": 7200
+        },
+        "buy/sell signs": {
+            "id": "846661246303469598",
+            "cooldown": 7200
+        },
+        "buy/sell platform": {
+            "id": "846673193426354176",
+            "cooldown": 7200
+        },
+        "buy/sell seeds": {
+            "id": "1105154359114875072",
+            "cooldown": 21600
+        },
+        "buy/sell farm tool": {
+            "id": "900823352275521546",
+            "cooldown": 7200
+        },
+        "buy/sell role drop": {
+            "id": "782718661336760380",
+            "cooldown": 7200
+        },
+        "buy/sell farms": {
+            "id": "846678280928624650",
+            "cooldown": 7200
+        },
+        "buy/sell farmables": {
+            "id": "846678373635457024",
+            "cooldown": 7200
+        },
+        "buy/sell bountiful": {
+            "id": "782718872498208778",
+            "cooldown": 7200
+        },
+        "buy/sell food": {
+            "id": "737344235199660123",
+            "cooldown": 7200
+        },
+        "buy/sell ingredients": {
+            "id": "737344491526029384",
+            "cooldown": 7200
+        },
+        "buy/sell cook tools": {
+            "id": "737429783201447937",
+            "cooldown": 7200
+        },
+        "buy/sell surg tool": {
+            "id": "733049257648586792",
+            "cooldown": 7200
+        },
+        "buy/sell malady": {
+            "id": "733050486143320164",
+            "cooldown": 7200
+        },
+        "buy/sell surg item": {
+            "id": "733050809314705458",
+            "cooldown": 7200
+        },
+        "buy/sell star tool": {
+            "id": "733052554820452423",
+            "cooldown": 7200
+        },
+        "buy/sell startrek": {
+            "id": "991332606434103316",
+            "cooldown": 7200
+        },
+        "buy/sell star items": {
+            "id": "733054141106094130",
+            "cooldown": 7200
+        },
+        "buy/sell starship blast": {
+            "id": "733053014163587145",
+            "cooldown": 7200
+        },
+        "buy/sell sector ships": {
+            "id": "901107989057007656",
+            "cooldown": 7200
+        }
+    }
+}
